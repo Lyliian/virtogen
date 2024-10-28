@@ -1,0 +1,33 @@
+$font-size-base: 1rem;
+$font-size-sm: $font-size-base * .825;
+$font-family-sans-serif: "Barlow Regular", Arial;
+
+$white: #FFF;
+$gray-100: #EFEFEF;
+$gray-200: #DFDFDF;
+$gray-300: #CACAC9;
+$gray-400: #A8A8A7;
+$gray-500: #878786;
+$gray-600: #6D6D6C;
+$gray-700: #575756;
+$gray-800: #4A4A49;
+$gray-900: #3D3D3C;
+
+$teal: #006D82;
+$red: #D60550;
+$orange: #E28700;
+$purple: #9B8CC2;
+$cyan: #17a2b8;
+
+$primary: $teal;
+$warning: $orange;
+
+$link-hover-color: theme-color("primary");
+
+$h1-font-size: $font-size-base * 4;
+$h2-font-size: $font-size-base * 3;
+$h3-font-size: $font-size-base * 2.5;
+
+$border-radius: 0.75rem;
+$border-radius-lg: 1rem;
+$border-radius-sm: .3rem;
